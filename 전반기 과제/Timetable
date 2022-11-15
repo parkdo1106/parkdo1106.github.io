@@ -2,18 +2,8 @@
 <html lang="en" itemscope itemtype="https://schema.org/WebPage">
 <head>
     <meta charset="UTF-8">
-    <title>Playground</title>
+    <title>Kevin's Timetable</title>
 </head>
-<style>
-    aside{
-        width: 45%;
-        padding-left: 15px;
-        margin-left: 15000px;
-        float: right;
-        font-style: normal;
-        background-color:lightcyan
-    }
-</style>
 <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}
     .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -36,77 +26,8 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
   
-<body>
-  <nav class="navbar navbar-dark bg-dark fixed-top">
-    <div class="container-fluid">
-      <a class="navbar-brand " href="#">박도경의 페이지</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
-        <div class="offcanvas-header">
-          <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Offcanvas</h5>
-          <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Link</a>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Dropdown
-              </a>
-              <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Action</a></li>
-                <li><a class="dropdown-item" href="#">Another action</a></li>
-                <li>
-                  <hr class="dropdown-divider">
-                </li>
-                <li><a class="dropdown-item" href="#">Something else here</a></li>
-              </ul>
-            </li>
-          </ul>
-          <form class="d-flex mt-3" role="search">
-            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success" type="submit">Search</button>
-          </form>
-        </div>
-      </div>
-    </div>
-  </nav>
-    <h1>Do Kyung <small>"Kevin"</small> Park</small></h1>
-    <i>Born 2000</b>
-    <sup>21</sup>
-</h1>
-    <p>
-        <a href="10255963_1968811506676321_4073123012842563329_n.jpg">
-            <img border="0" alt="10255963_1968811506676321_4073123012842563329_n.jpg" src="10255963_1968811506676321_4073123012842563329_n.jpg" width="200" height="200"> <br>
-            </a>
-연세대 재학생 <u>박도경</u> <br>
-        서울 및 마닐라<sub>필리핀</sub> 거주<br> <br> </p></i>
-<p>저는 연새대학교에 재학 중인 3학년 학부생 <b>박도경</b> 입니다.<br>
-    2022년 2학기 현재 웹프로그래밍을 수강하고 있습니다. 바이오생활과학과이면서 이 수업을 수강하게 <br> 
-된 이유는 훗날 코딩 경험이 인생에 큰 도움이 될 것을 각종 비대면 활동을 통해 느꼈기 떄문입니다. <br>
-    학업 외 특기로는 수영을 꼽을 수 있겠습니다. 중학교떄부터 고등학교때까지 학교 수영부 대표로써 <br>
-    말레이시아와 싱가포르 등 다양한 국제 대회에 참여하였습니다. </p>
-<p><strong>개인적인 취미사</strong></h>
-<ul>
-    <li>수영</li>
-    <li>사이클링</li>
-    <li>쇼핑</li>
-</ul> <br>
-<p><strong>저의 18번곡:</strong></p>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/9lrcDGSXmug" 
-    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
-    clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen></iframe></p> 
-    <p><del>이렇게 노래까지 올리니 예전 싸이월드 시절이 느낌이 납니다</del></p><br>
-
-<p><strong>2022-2학기 시간표:</strong></p>
+  <body>
+    <p><strong>2022-2학기 시간표:</strong></p>
 <table class="tg">
     <thead>
       <tr>
@@ -206,19 +127,5 @@
       </tr>
     </tbody>
     </table>
-    </p><br>
-<strong>연락처</strong></h>
-<dl>
-    <li><em>parkdodoxxxx@gmail.com</li>
-    <li>parkdoxxxx@yonsei.ac.kr</li>
-    <li>010-5669-xxxx</li></em>
-</dl>
-        </p>
-<aside>
-    <p> <ins>My Favorite Quote:</ins> <br>
-        <b>망설이지만 시간은 망설이지 않는다. <br>
-        잃어버린 시간은 되돌아오지 않는다.</b><br><br>
-    -벤자민 프랭클린-</p>
-</aside>
-</body>
-</html>
+    </p>
+  </body>
